@@ -1,0 +1,9 @@
+body {
+    padding-top: 30px;
+}
+
+.container {
+    max-width: 600px;
+    background-color: rgb(156, 226, 253);
+    border-radius: 5px;
+}
