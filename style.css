@@ -3,7 +3,8 @@ body {
 }
 
 .container {
-    max-width: 600px;
+    max-width: 300px;
     background-color: rgb(156, 226, 253);
     border-radius: 5px;
+    padding: 30px;
 }
